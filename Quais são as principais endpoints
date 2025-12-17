@@ -1,1 +1,24 @@
+Principais Endpoints da API
 
+  Endpoint de teste
+Método	Rota	Descrição
+GET	/	Verifica se a API está rodando
+  Alunos
+
+Método	Rota	Descrição
+POST	/alunos	Cadastra um novo aluno
+GET	/alunos	Lista todos os alunos
+GET	/alunos/:id	Retorna um aluno com seus cursos
+PUT	/alunos/:id	Atualiza dados de um aluno
+DELETE	/alunos/:id	Remove um aluno
+
+  Cursos
+
+Método	Rota	Descrição
+POST	/cursos	Cadastra um curso
+GET	/cursos	Lista todos os cursos
+
+  Matrículas
+
+Método	Rota	Descrição
+POST	/matriculas	Matricula um aluno em um curso

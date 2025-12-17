@@ -3,4 +3,4 @@ Projeto de aplicação em api
 
 
 # Testes
-![](screenshot/IMG)
+![](Screenshots/IMG/Consultarcursodeumaluno.png)
